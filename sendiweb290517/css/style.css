@@ -1,0 +1,87 @@
+/* Custom Stylesheet Hall�*/
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+#navcust-header
+{
+/*  background-color:darkslategrey;
+  height: 150px;*/
+  width: 100%;
+}
+
+#navcust-img-valign {
+  vertical-align: middle;
+  margin-right: 0.75em;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  height: 64px;
+}
+
+#navcust-linktext-font {
+  font-size: 20px;
+}
+
+#navcust-linkitem {
+  height: 64px;
+  vertical-align: middle;
+}
+#maincust-headerbar {
+  background-color:rgb(57, 79, 73)
+}
+
+#cardcust-horizontal-valign {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  height: 112px;
+  margin-left: 16px;
+}
+#cardcust-horizontal-valign-large {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  height: 180px;
+  margin-left: 16px;
+}
+
+#cardcust-horizontal-content {
+  padding-top: -5px;
+}
+#cardcust-messages-color {
+  background-color: yellow;
+}
+div.cardeverntheader {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+#texastitlefont
+{
+  font-size: 20px;
+}
+#frontpagebox
+{
+  height: 400px;
+   position: relative;
+}
+ #boxbutton1
+{
+  bottom: 15px;
+  position: absolute;
+  text-align: center;
+}
+
+
+
+
+
